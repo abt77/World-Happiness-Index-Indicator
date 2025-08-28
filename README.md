@@ -6,7 +6,7 @@ This project analyzes the World Happiness Index dataset (2020) from Kaggle using
 # Tools Used
 - R (ggpubr, tidyverse, readxl, ggplot2,dplyr,randomForest) 
 - Data Preparation: Exploratory Data Analysis, Factor encoding, train-test split (80/20) 
-- Evaluation: ROC Curve, AIC, AUC, Misclassification error
+- Evaluation: ROC Curve, AIC, AUC, Misclassification error, Confusion Matrix
 
 # Model
 1. Logistic Regression
