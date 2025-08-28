@@ -10,7 +10,9 @@ This project analyzes the World Happiness Index dataset (2020) from Kaggle using
 
 # Model
 1. Logistic Regression
+
 Model 1: Happiness ~ GDP per capita
+
 Model 2 (Full): Included all predictors.
 Stepwise Regression: Removed less significant variables (e.g., GDP dropped in stepwise due to multicollinearity).
 Model performance evaluated with:
