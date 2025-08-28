@@ -4,7 +4,7 @@
 This project analyzes the World Happiness Index dataset (2020) from Kaggle using R. The goal is to understand the key drivers of happiness across countries and build predictive models to classify countries into “Happy” vs. “Unhappy” categories.
 
 # Tools Used
-- R (ggpubr, tidyverse, readxl, ggplot2,dplyr,randomForest) 
+- R (ggpubr, tidyverse, readxl, ggplot2, dplyr, randomForest) 
 - Data Preparation: Exploratory Data Analysis, Factor encoding, train-test split (80/20) 
 - Evaluation: ROC Curve, AIC, AUC, Misclassification error, Confusion Matrix
 
