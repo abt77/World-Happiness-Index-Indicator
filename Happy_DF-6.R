@@ -5,7 +5,7 @@ library("readxl")
 library(ggplot2)
 library(dplyr)
 ###########EDA######
-happy_df <- read.csv("C:/Users/Artrix/Downloads/World_Happiness_Report_2022.csv")
+happy_df <- read.csv("filepath/World_Happiness_Report_2022.csv")
 
 happy_df <- read_csv(file.choose())
 boxplot(happy_df$Perceptions.of.corruption, main="Perceptions of corruption", horizontal = TRUE,xlab="Score")
